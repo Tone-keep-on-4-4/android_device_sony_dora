@@ -35,7 +35,6 @@ PRODUCT_MANUFACTURER := Sony
 PRODUCT_GMS_CLIENTID_BASE := android-sony
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    TARGET_DEVICE="dora_dsds" \
     PRODUCT_NAME="dora_dsds" \
     PRIVATE_BUILD_DESC="dora_dsds-user 8.0.0 OPR1.170623.026 1 dev-keys"
 
